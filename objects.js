@@ -1,6 +1,6 @@
 var playlist = {
-  dmb: "#41"
-  potsusa: "Peaches"
+  dmb: "#41",
+  potsusa: "Peaches",
   ts: "Wildest Dreams"
 }
 function updatePlaylist(playlist, artist, song) {
